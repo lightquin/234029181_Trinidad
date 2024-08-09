@@ -1,3 +1,11 @@
 [user]
 	name = joaquin
 	email = jqn3nidad@gmail.com
+[core]
+	excludesfile = /root/.gitignore_global
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
+[push]
+	autoSetupRemote = true
