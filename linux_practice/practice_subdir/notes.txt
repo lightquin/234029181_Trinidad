@@ -1,0 +1,3 @@
+notes.txt
+hello linux!
+this is a practical exam
