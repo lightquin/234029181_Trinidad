@@ -1,0 +1,336 @@
+   0 wsg
+   1 apk add -linux
+   2 -la
+   3 -ls
+   4 ls
+   5 wsg
+   6 pkg upgrade
+   7 pkg install openssh
+   8 apk add openssh
+   9 apk upgrade
+  10 apk add openssh
+  11 change password
+  12 passwd
+  13 ssh-keygen
+  14 username
+  15 whoami -username
+  16 ipconfig -ip
+  17 ipconfig - ip
+  18 address(lighqtuin)
+  19 logcat -s
+  20 openssh
+  21 apk add openssh
+  22 sah
+  23 ssh
+  24 login
+  25 enable
+  26 config t
+  27 con ter
+  28 lightquin -ust
+  29 lightquin -username
+  30 apk upgrade
+  31 apk add openssh
+  32 open openssh
+  33 -ls
+  34 -l
+  35 -help
+  36 help
+  37 exec openssh
+  38 help
+  39 history
+  40 ssh-keygen
+  41 hostory
+  42 history
+  43 help
+  44 /etc
+  45 /motd
+  46 /etc/motd
+  47 grant acc
+  48 grant permissions
+  49 help
+  50 alias lightquin
+  51 alias
+  52 alias localhost
+  53 localhost -alias
+  54 -ash
+  55 ash
+  56 apk list
+  57 clear
+  58 exec
+  59 cls
+  60 clear
+  61 ren lightquin
+  62 help
+  63 source
+  64 eval
+  65 eval type
+  66 break
+  67 cd testing
+  68 md testing
+  69 cd hime
+  70 cd home
+  71 md home
+  72 cls
+  73 clear
+  74 history
+  75 clear
+  76 neofetch
+  77 apk add neofetch
+  78 neofetcg
+  79 neofetch
+  80 apk add neofetch
+  81 neofetch
+  82 list
+  83 la
+  84 ls
+  85 sahd
+  86 sshd
+  87 ls
+  88 exec
+  89 clear
+  90 neofetch
+  91 help
+  92 umask 
+  93 ulimit
+  94 true
+  95 local home
+  96 ls
+  97 history
+  98 ls
+  99 neofetch
+ 100 --list
+ 101 apk list install
+ 102 apk list --install
+ 103 list
+ 104 -ls
+ 105 -list
+ 106 ls
+ 107 apk add apache2
+ 108 apk add ubuntu
+ 109 la
+ 110 ls
+ 111 apk list --install
+ 112 ls
+ 113 apk add --mysql
+ 114 apk info
+ 115 apk add mysql
+ 116 apk add python3
+ 117 apk list --install
+ 118 apk info
+ 119 git -cli
+ 120 apk add git
+ 121 apk add github-cli
+ 122 apk add openjdk
+ 123 apk add -jdk
+ 124 apk add jdk
+ 125 apk add git
+ 126 apk add open-jdk
+ 127 apk add java
+ 128 apo add openjdk11
+ 129 apk add openjdk11
+ 130 apk info
+ 131 git
+ 132 java
+ 133 mysqld
+ 134 sshd
+ 135 clear
+ 136 apk autoclean
+ 137 autoclean
+ 138 apk purge
+ 139 purge
+ 140 apk info
+ 141 python
+ 142 py3
+ 143 pu
+ 144 py
+ 145 apk add openjdk8
+ 146 apk info
+ 147 apk list
+ 148 list
+ 149 ls
+ 150 add apk openjdk8
+ 151 apk add openjdk8
+ 152 apk add nano
+ 153 git add
+ 154 git pull
+ 155 git pull 
+ 156 git config --global user.name "joaquin"
+ 157 git config --global user.email "jqn3nidad@gmail.com
+ 158 git config --list
+ 159 git config --global user.email "jqn3nidad@gmail.com"
+ 160 git config --list
+ 161 pwd
+ 162 mkdir Submissions
+ 163 cd Submissions\
+ 164 ssh-keygen -t ed25519 -C "jqn3nidad@gmail.com"
+ 165 clip < ~/.ssh/id_ed25519.pub
+ 166 git clip < ~/.ssh/id_ed25519.pub
+ 167 clip < ~/.ssh/id_ed25519.pub
+ 168 ssh-keygen -t ed25519 -C "jqn3nidad@g
+ 169 mail.com"
+ 170 y
+ 171 ssh-keygen -t ed25519 -C "jqn3nidad@g
+ 172 mail.com"
+ 173 ssh-keygen -t ed25519 -C "jqn3nidad@g
+ 174 ssh-keygen -t ed25519 -C "jqn3nidad@gmail.com"
+ 175 clip < ~/.ssh/id_ed25519.pub
+ 176 cat
+ 177 ssh-keygen -t ed25519 -C "jqn3nidad@gmail.com"
+ 178 cat < ~/.ssh/id_ed25519.pub
+ 179 history
+ 180 SHA256:oHw1sGYGv2wTilEs2JlabNIHcCu0/GaBElwVT3MBv+M
+ 181 history
+ 182 cd Submissions
+ 183 nano
+ 184 history
+ 185 git --help
+ 186 history
+ 187 nano
+ 188 cd Submissions
+ 189 echo txt.php
+ 190 nano txt.php
+ 191 git --help
+ 192 git init
+ 193 git remote add origin https://github.com/lightquin/234029181_Trinidad.git
+ 194 git add txt.php
+ 195 git add Submissions/txt.php
+ 196 ls
+ 197 list
+ 198 -ls
+ 199 -list
+ 200 git status
+ 201 ls
+ 202 sudo nano txt.php
+ 203 nano create
+ 204 bano txt.php
+ 205 nano txt.php
+ 206 git add txt.php
+ 207 git status
+ 208 git branch -m main
+ 209 git status
+ 210 git commit "testing file added"
+ 211 git commit -m "testing file uoad"
+ 212 git push -u origin main
+ 213 git remote set-url origin"https://SHA256:oHw1sGYGv2wTilEs2JlabNIHcCu0/GaBElwVT3MBv+M.github.com/lightquin/234029_Trinidad.git
+ 214 git remote add origin https://github/lightquin/234029181_Trinidad.git
+ 215 git remote add origin https://github.com/lightquin/234029181_Trinidad.git
+ 216 cd Submissions
+ 217 history
+ 218 git remote add origin https://github.com/lightquin/234029181_Trinidad.git
+ 219 gut status
+ 220 git status
+ 221 nano txt.txt
+ 222 status
+ 223 git status
+ 224 git add txt.txt
+ 225 git status
+ 226 git commit -m "testing sending"
+ 227 git push -u origin main
+ 228 git remote set-url originhttps://github.com/lightquin/234029181_Trinidad
+ 229 git remote add origin https://github.com/lightquin/234029181_Trinidad
+ 230 git pull
+ 231 git config --global --unset http.proxy
+ 232 git pull
+ 233 git config --global --unset https.proxy
+ 234 git pull
+ 235 git push -u origin main
+ 236 git remote set-url originhttps://SHA256:oHw1sGYGv2wTilEs2JlabNIHcCu0/GaBElwVT3MBv+M.github.com/lightquin/234029_Trinidad.git
+ 237 git --push -u origin main
+ 238 git -push -u origin main
+ 239 git push -u origin main
+ 240 git fetch -p
+ 241 git push -u origin main
+ 242 git remote add origin https://lightquin:SHA256:oHw1sGYGv2wTilEs2JlabNIHcCu0/GaBElwVT3MBv+M@github.com/lightquin/234029181_Trinidad.git
+ 243 git remote remove
+ 244 git remote remove https://github.com/lightquin/234029181_Trinidad
+ 245 git remove remote lightquin
+ 246 git remote remove lightquin
+ 247 git remote remove
+ 248 git push -u origin main
+ 249 git push
+ 250 git status
+ 251 echo txt.txt
+ 252 git add -m origin main
+ 253 git add - origin
+ 254 git status
+ 255 git touch txt.txt
+ 256 touch
+ 257 touch txt.txt
+ 258 gitnstatus
+ 259 git status
+ 260 git add .
+ 261 git status
+ 262 got commit -m "anything"
+ 263 git commit -m "anythibg"
+ 264 git add txt.txt
+ 265 git status
+ 266 git init
+ 267 git status
+ 268 echo txt.txt
+ 269 ls
+ 270 git add .
+ 271 git status
+ 272 git branch -m main
+ 273 git status
+ 274 git add .
+ 275 git status
+ 276 cd submissions
+ 277 cs Submissions
+ 278 cd Submissions
+ 279 ls
+ 280 git remote add  origin https://github.com/lightquin/234029181_Trinidad.git
+ 281 git rebase
+ 282 git rebase main
+ 283 git rebase origin
+ 284 git push
+ 285 git push -m origin main
+ 286 git push -m main
+ 287 git push -u origin main
+ 288 cd Submissions
+ 289 ls
+ 290 git add .
+ 291 git status
+ 292 git commit -m main 
+ 293 clear
+ 294 host
+ 295 hist
+ 296 history
+ 297 bash 
+ 298 ssh -v
+ 299 ssh -i
+ 300 ssh -i - B
+ 301 ssh -i -B
+ 302 ssh -b
+ 303 py3
+ 304 -ash py:
+ 305 py -v
+ 306 apk openjdk8 -v
+ 307 apk --help
+ 308 apk version
+ 309 apk py3 version
+ 310 apk ssh version
+ 311 apk php version
+ 312 apk mysql version
+ 313 apk apache3 version
+ 314 apk openjdk8 version
+ 315 notes.txt>> This is a practical exam
+ 316 echo notes.txt>> this is  a practical exam
+ 317 ls
+ 318 cd yourrepo
+ 319 ls
+ 320 cd linux_practice
+ 321 ls
+ 322 mv subdir practice_subdir
+ 323 ls
+ 324 cp notes.txt practice_subdir
+ 325 echo Hello Linux!> notes.txt
+ 326 ls
+ 327 cp notes.txt practice_subdir
+ 328 return
+ 329 git checkout -b finalexam
+ 330 git branch finalexam
+ 331 git -help
+ 332 git checkout -b finalexam
+ 333 git init
+ 334 git checkout -b finalexam
+ 335 history > exam_log.txt
